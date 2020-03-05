@@ -7,14 +7,15 @@
  To run this project successfully I recommend that you have the relevant environment setup for this project, preferably;
  * Jupyter Notebook (click on this link to install:https://jupyter.readthedocs.io/en/latest/install.html)
  <br/>
+
  * Pandas library (checkout this link: https://pandas.pydata.org/pandas-docs/stable/install.html)
 
  ## Installation Guide 
  To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found here: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
 
 Alternatively you can navigate to the command-prompt on Windows pc or terminal on linux and  run the following command;
-'git clone https://github.com/lamechy/Sales_Analysis1.git`
-'cd SalesAnalysis'
+- `git clone https://github.com/lamechy/Sales_Analysis1.git`
+- `cd SalesAnalysi`
  
  ## Background information:
 
